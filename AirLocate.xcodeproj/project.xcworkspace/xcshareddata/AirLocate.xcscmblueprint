@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "F7B14ABA09948CD859B02B1D4323E4C89B5A2B5D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "F7B14ABA09948CD859B02B1D4323E4C89B5A2B5D" : 0,
+    "D843A2D7E05FDB9441E2C1131577968A93BBBC79" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "41CD8E96-F23D-4D93-9619-6C7A0D3128AC",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "F7B14ABA09948CD859B02B1D4323E4C89B5A2B5D" : "Hackathon_ios\/",
+    "D843A2D7E05FDB9441E2C1131577968A93BBBC79" : "gc-indoor-ios"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "AirLocate",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "AirLocate.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:GeoComply\/gc-indoor-ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D843A2D7E05FDB9441E2C1131577968A93BBBC79"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:sontieu\/ios_hackathon.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F7B14ABA09948CD859B02B1D4323E4C89B5A2B5D"
+    }
+  ]
+}
